@@ -22,3 +22,4 @@ Some of the questions and insights are as follows:
 6. Cholestrol range and its effect in heart disease.
 
 # Refer the dashboard for detailed report.
+https://github.com/SofiaArjunan/Heart-disease-prediction/blob/main/Heart%20disease%20prediction.xlsx
