@@ -16,7 +16,7 @@ Some of the questions and insights are as follows:
 
 2. Are men prone to heart disease or women?
    
-  ![image](https://github.com/SofiaArjunan/Heart-disease-prediction/assets/168706952/f4ce57a2-2072-4906-9c3b-918589cd113d)
+   ![image](https://github.com/SofiaArjunan/Heart-disease-prediction/assets/168706952/f4ce57a2-2072-4906-9c3b-918589cd113d)
 
    
 3. Which type of chest pain leads to heart disease in most cases?
